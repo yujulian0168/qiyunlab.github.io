@@ -9,7 +9,7 @@ plugins:
   - jekyll-include-cache
 
 title: Qiyun Lab
-subtitle: Microbiome data science
+subtitle: Microbiome Data Science
 description: Arizona State University
 url: https://qiyunlab.github.io/
 locale: en-US
