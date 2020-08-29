@@ -15,9 +15,9 @@ pi:
 
 postdoc:
   - title: Daniel Roush
-    image_path: assets/images/people/Daniel_Roush_outdoors.jpg
+    image_path: assets/images/people/roush-outdoors.png
     excerpt: >
-        I am an Assistant Professor at the School of Life Sciences, Arizona State University, starting from August 2020. Prior to this appointment, I completed postdoctoral training at UC San Diego with [Dr. Rob Knight](https://knightlab.ucsd.edu/). My academic background is multidisciplinary, with research experience and interest in bioinformatics, phylogenetics, microbiology, comparative genomics and molecular biology. I study both computational and biological questions, and strive to expand the understanding of the microbial world through its multiple levels: genes, genomes, lineages, communities, hosts, and environments.
+        I am a Postdoctoral Scholar in the Center for Fundamental and Applied Microbiomics at the Biodesign Institute located at Arizona State University. Before joining the Qiyun Lab, I completed my dissertation work under the tutelage of [Dr. Ferran Garcia-Pichel](http://garcia-pichel.lab.asu.edu/labo/) where I examined endolithic phototrophs and their accompanying microbiomes. My (micro)biological training has spanned a wide range of topics including synthetic biology, microbial fuel cells, industrial applications of anaerobic extremophiles, and extreme environmental microbiomes. Most recently, I have led the development of databases and tools to help with rapid analysis of environmental microbiomes ([Cydrasil]( https://github.com/FGPLab/cydrasil)). My current research goals are focused on developing and adapting new technologies for use in microbiome analysis and making those new tools easily accessible for every scientist. 
         <br /><br />
         [<i class='fa fa-envelope-square fa-2x'></i>](mailto:dwroush@asu.edu)&nbsp;&nbsp;
         [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=oNXQvWkAAAAJ&hl=en)&nbsp;&nbsp;
@@ -38,8 +38,8 @@ postdoc:
 
 {% include feature_row id="postdoc" type="left" %}
 
-## Open positions
+## Open Positions
 
-We welcome undergraduate and graduate students with an interest in microbiome and bioinformatics to join our highly motivated and collaborative team. You will conduct research on one or several projects that both advance the field and fit your specific interest. You will receive training in quantitative skills, big data analytics, software development, hypothesis testing, scientific communication, and other valuable aspects of scientific research.
+We welcome undergraduate and graduate students with an interest in microbiomes and bioinformatics to join our highly motivated and collaborative team. You will conduct research on one or several projects that both advance the field and fit your specific interest. You will receive training in quantitative skills, big data analytics, software development, hypothesis testing, scientific communication, and other valuable aspects of scientific research.
 
 Please contact **Dr. Qiyun Zhu** at [Qiyun.Zhu@asu.edu](mailto:Qiyun.Zhu@asu.edu) to discuss about the opportunity.
