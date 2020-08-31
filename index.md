@@ -17,9 +17,9 @@ header:
 excerpt: Microbiome Data Science
 ---
 
-## We study microbiome
+## We study microbiomes
 
-We are the Qiyun Lab at the Biodesign Center for Fundamental and Applied Microbiomics ([CFAM](https://biodesign.asu.edu/cfam)), Arizona State University ([ASU](https://www.asu.edu/)). We study the data science for microbiomics and multiomics. We are interested in the development of computational tools and resources to improve microbiome data analytics, the study of various host and environmental microbiomes and their influence on human health, and the investigation of the evolution of microbes and their hosts, with focus on vertical and horizontal genetic connections between organisms. We strive to expand understanding of the microbial world through its multiple levels: genes, genomes, lineages, communities, hosts, and environments.
+We are the Qiyun Lab at the Biodesign Center for Fundamental and Applied Microbiomics ([CFAM](https://biodesign.asu.edu/cfam)) at Arizona State University ([ASU](https://www.asu.edu/)). We study the applications of data science for microbiomics and multiomics analyses. We are interested in the development of computational tools and resources to improve microbiome data analytics, the study of various host and environmental microbiomes and their influence on human health, and the investigation of the evolution of microbes and their hosts, with a focus on vertical and horizontal genetic connections between organisms. We strive to expand understanding of the microbial world through its multiple levels: genes, genomes, lineages, communities, hosts, and environments.
 
 ## News
 
