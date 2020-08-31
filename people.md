@@ -47,9 +47,6 @@ postdoc:
 
 <!--span style="font-size: 0.9em">Assistant Professor</span><br /><br /-->
 
-## Postdoctoral Scholars
-
-{% include feature_row id="postdoc" type="left" %}
 
 ## Open Positions
 
