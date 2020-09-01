@@ -27,7 +27,7 @@ postdoc:
   - title: Julian Yu
     image_path: assets/images/people/Yu-labphoto.JPG
     excerpt: >
-      I am a postdoctoral scholar under Dr. Qiyun Zhu at the Center for Fundamental and Applied Microbiomics. My interest in soil microbiomes propelled me to complete my Ph.D under Dr. Christopher Ryan Penton at Arizona State University. My dissertation research examined the taxonomic and functional shifts in the  microbial communities of agricultural soils that had received biochar application. Currently, my research interest include employing 'omics tools to understand the mechanisms underlying the microbial interactions between taxa and their environment. 
+      I am a postdoctoral scholar at the Center for Fundamental and Applied Microbiomics. My interest in soil microbiomes propelled me to complete my Ph.D under Dr. Christopher Ryan Penton at Arizona State University. During my dissertation I examined the taxonomic and functional shifts in the microbial communities of agricultural soils that had received biochar application. Currently, my research interests include developing 'omics tools to understand the mechanisms underlying the interactions between microbial taxa. 
       <br /><br />
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:julianyu@asu.edu)&nbsp;&nbsp;
       [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=PT0_hHYAAAAJ&hl=en)&nbsp;&nbsp;
